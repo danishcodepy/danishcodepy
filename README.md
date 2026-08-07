@@ -41,3 +41,10 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danishcodepy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=danishcodepy&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
