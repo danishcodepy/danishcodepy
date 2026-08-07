@@ -38,3 +38,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danishcodepy&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishcodepy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=danishcodepy&theme=tokyonight&no-frame=true&margin-w=15">
+</p>
