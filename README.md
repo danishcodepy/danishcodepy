@@ -32,3 +32,9 @@
 🎮 Danish's GitHub Pac-Man
 
 <img src="https://raw.githubusercontent.com/danishcodepy/pacman-contribution/main/dist/pacman-contribution-graph.svg">
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danishcodepy&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishcodepy&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
