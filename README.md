@@ -28,3 +28,16 @@
 ## 🐍 GitHub Contribution Snake
 
 ![snake animation](https://raw.githubusercontent.com/danish12312/danish12312/output/github-snake.svg)
+
+
+<h2 align="center">
+🎮 Danish's GitHub Pac-Man
+</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/danishcodepy/pacman-contribution/main/dist/pacman-contribution-graph.svg">
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/danishcodepy/pacman-contribution/main/dist/pacman-contribution-graph-dark.svg">
+</p>
