@@ -1,3 +1,26 @@
+<div align="center">
+
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=1">
+  <img src="./megha-banner.svg?v=7" alt="Megha Mittal — Frontend Developer" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
+
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
+
+</td>
+<td width="62%" valign="middle">
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DjgMbvMNR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danish.logic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danish-ahmad-a88932272) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/flankerrz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danishahamd3773@gmail.com) 
