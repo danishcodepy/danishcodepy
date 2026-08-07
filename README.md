@@ -1,11 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Banner ✨ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
-  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=1">
-  <img src="./megha-banner.svg?v=7" alt="Megha Mittal — Frontend Developer" width="100%"/>
-</picture>
+
 
 </div>
 
@@ -16,7 +12,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
+<img src="./danish_ahmad_python_only.svg?v=2" alt="Danish Ahmad ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
