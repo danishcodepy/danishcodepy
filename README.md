@@ -39,18 +39,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/danishcodepy/danishcodepy/output/github-snake.svg" />
 </p>
-
-## 🎮 Pac-Man Contribution
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/danishcodepy/pacman-contribution/main/dist/pacman-contribution-graph.svg" />
 </p>
-
 </td>
 
 </tr>
