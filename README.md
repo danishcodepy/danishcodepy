@@ -44,14 +44,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/danishcodepy/danishcodepy/output/github-snake.svg" />
 </p>
-
-
 <br>
-
-
 ## 🎮 Danish's GitHub Pac-Man
-
-
 <img src="https://raw.githubusercontent.com/danishcodepy/pacman-contribution/main/dist/pacman-contribution-graph.svg">
 
 
