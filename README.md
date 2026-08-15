@@ -45,20 +45,6 @@
   <img src="https://raw.githubusercontent.com/danishcodepy/danishcodepy/output/github-snake.svg" />
 </p>
 
-## 🎮 Pac-Man Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danishcodepy/pacman-contribution/main/dist/pacman-contribution-graph.svg" />
-</p>
-</td>
-
-</tr>
-</table>
-
-
-<br>
-<hr>
-<br>
 
 ## 📊 GitHub Stats
 
