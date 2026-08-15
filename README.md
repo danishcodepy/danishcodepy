@@ -42,7 +42,7 @@
 ## 🐍 GitHub Contribution Snake
 
 
-<img src="https://raw.githubusercontent.com/danish12312/danish12312/output/github-snake.svg">
+[<img src="https://raw.githubusercontent.com/danish12312/danish12312/output/github-snake.svg">](https://raw.githubusercontent.com/danishcodepy/danishcodepy/output/github-snake.svg)
 
 
 <br>
