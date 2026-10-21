@@ -17,7 +17,6 @@
 
 </td>
 
-
 <td width="62%" valign="middle">
 
 ## 🌐 Socials:
